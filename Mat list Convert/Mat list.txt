@@ -1,0 +1,342 @@
+p1:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:bone_block]\u003dminecraft:bone_block}": 199,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 694,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 139,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:deepslate]\u003dminecraft:deepslate}": 4447,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:obsidian]\u003dminecraft:obsidian}": 170,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 5035,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 329,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 18,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone_stairs]\u003dminecraft:sandstone_stairs}": 88,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:andesite_wall]\u003dminecraft:andesite_wall}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 627
+
+
+p2:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_button]\u003dminecraft:stone_button}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 157,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 5123,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 26,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:obsidian]\u003dminecraft:obsidian}": 9,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_andesite]\u003dminecraft:polished_andesite}": 46,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 136,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 13,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 316,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lapis_block]\u003dminecraft:lapis_block}": 200,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 103,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 164,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 224,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1068,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:andesite_wall]\u003dminecraft:andesite_wall}": 112,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:bone_block]\u003dminecraft:bone_block}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 1073,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:netherrack]\u003dminecraft:netherrack}": 4
+
+p3:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_button]\u003dminecraft:stone_button}": 4,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 42,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1903,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_andesite]\u003dminecraft:polished_andesite}": 20,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 50,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 43,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 84,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 64,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 6,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 534,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:andesite_wall]\u003dminecraft:andesite_wall}": 62,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 3,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 493
+
+p4:
+ "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 471,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 98,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 3464,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_wool]\u003dminecraft:red_wool}": 96,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 52,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 85,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 429,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 62,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_wool]\u003dminecraft:gray_wool}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 124,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 48,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 151,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1233,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:andesite_wall]\u003dminecraft:andesite_wall}": 156,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 34
+
+p5:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 260,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 2997,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_wool]\u003dminecraft:red_wool}": 144,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 56,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 79,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_wool]\u003dminecraft:gray_wool}": 48,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 60,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:dark_prismarine]\u003dminecraft:dark_prismarine}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 112,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:andesite_wall]\u003dminecraft:andesite_wall}": 216,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 895
+
+p6:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 23,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:light_gray_wool]\u003dminecraft:light_gray_wool}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 226,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 6543,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_wool]\u003dminecraft:red_wool}": 216,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 39,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 88,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 253,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 1957,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 196,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_wool]\u003dminecraft:gray_wool}": 72,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 252,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 408,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1166,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:redstone_lamp]\u003dminecraft:redstone_lamp}": 80
+
+p7:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:bricks]\u003dminecraft:bricks}": 176,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:light_gray_wool]\u003dminecraft:light_gray_wool}": 80,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 613,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 7317,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_wool]\u003dminecraft:red_wool}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_slab]\u003dminecraft:nether_brick_slab}": 50,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 81,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 107,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 176,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_wool]\u003dminecraft:gray_wool}": 80,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 84,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:dark_prismarine]\u003dminecraft:dark_prismarine}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 240,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1063,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:redstone_lamp]\u003dminecraft:redstone_lamp}": 132,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 84
+
+p8:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 899,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 246,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:dark_oak_planks]\u003dminecraft:dark_oak_planks}": 2996,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 5409,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 43,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:mossy_cobblestone_wall]\u003dminecraft:mossy_cobblestone_wall}": 1,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 207,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:orange_wool]\u003dminecraft:orange_wool}": 484,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 148,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 152,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1584
+
+p9:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 790,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 188,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 4701,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 80,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 7,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 44,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 448,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 180,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 1347
+
+p10:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 659,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 140,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1580,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:black_concrete]\u003dminecraft:black_concrete}": 664,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 4,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 438,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_stained_glass]\u003dminecraft:red_stained_glass}": 40,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 6,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 507
+  }
+
+p11:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 1152,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 216,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 2167,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 64,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:black_concrete]\u003dminecraft:black_concrete}": 3244,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:polished_blackstone_wall]\u003dminecraft:polished_blackstone_wall}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 1796,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_stained_glass]\u003dminecraft:red_stained_glass}": 90,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 96,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 544
+
+p12:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 707,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1093,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 48,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:black_concrete]\u003dminecraft:black_concrete}": 352,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 9,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 236,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 72,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:gray_concrete]\u003dminecraft:gray_concrete}": 16
+
+p13:
+
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 556,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 82,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1339,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 28,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 25,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 7,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 79,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 50,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 102,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobbled_deepslate]\u003dminecraft:cobbled_deepslate}": 10
+
+
+p14:
+
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 585,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 24,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 213,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1071,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 27,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 341,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 120,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 64,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 30,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobbled_deepslate]\u003dminecraft:cobbled_deepslate}": 10
+
+
+p15:
+  "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 636,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 252,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 860,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 4,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 3,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 200,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 100,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:soul_sand]\u003dminecraft:soul_sand}": 2,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:red_stained_glass]\u003dminecraft:red_stained_glass}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobbled_deepslate]\u003dminecraft:cobbled_deepslate}": 10
+
+p16:
+ "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 466,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 190,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 510,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 4,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 160,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 8,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 135,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 32,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 6,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobbled_deepslate]\u003dminecraft:cobbled_deepslate}": 6
+
+p17:
+
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 816,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:chain]\u003dminecraft:chain}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 276,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1475,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:lantern]\u003dminecraft:lantern}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 16,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:sandstone]\u003dminecraft:sandstone}": 172,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 38,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 184,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 136,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 36,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 36
+
+
+p18:
+"requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_bricks]\u003dminecraft:stone_bricks}": 1812,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:nether_brick_stairs]\u003dminecraft:nether_brick_stairs}": 62,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1087,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:oak_fence]\u003dminecraft:oak_fence}": 12,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 76,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone_brick_stairs]\u003dminecraft:stone_brick_stairs}": 160,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:glass]\u003dminecraft:glass}": 72,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 36,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone_wall]\u003dminecraft:cobblestone_wall}": 12
+
+p19:
+ "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 1704,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 10,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 36
+
+
+p20:
+ "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:coal_block]\u003dminecraft:coal_block}": 482,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:stone]\u003dminecraft:stone}": 2,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:torch]\u003dminecraft:torch}": 1,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 36,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:mossy_stone_bricks]\u003dminecraft:mossy_stone_bricks}": 51
+
+
+p21:
+
+ "requiredItems": {
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:cobblestone]\u003dminecraft:cobblestone}": 14,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:mossy_stone_bricks]\u003dminecraft:mossy_stone_bricks}": 15
+
+
+
+
+
+
+
